@@ -18,8 +18,8 @@
 - Clone this repository and install its packages (including Gymnasium)
 
     ```
-    git clone https://github.com/lcdbezerra/kaust_ece372.git
-    pip install -r kaust_ece372/requirements.txt
+    git clone https://github.com/lcdbezerra/ece372_fall25.git
+    pip install -r ece372_fall25/requirements.txt
     ```
 
 - Clone and install the `gym-maze` environment
